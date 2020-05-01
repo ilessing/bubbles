@@ -6,8 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-![Jekyll site CI](https://github.com/ilessing/bubbles/workflows/Jekyll%20site%20CI/badge.svg)
-
+![Jekyll site CI](https://github.com/ilessing/bubbles/workflows/Jekyll%20site%20CI/badge.svg?branch=gh-pages)
 
 There should be whitespace between paragraphs.
 
